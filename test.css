@@ -1,0 +1,883 @@
+.div1 {
+    background-color:black;
+    text-align:center;
+    background-image: url(IMG1.png);
+    width:100% ;
+    height:100%;
+    border-bottom:30px;
+    text-align:left;
+    border-radius:15%;
+    box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5)
+}
+    
+
+div time {
+text-align: center;
+
+
+
+
+}
+
+
+.div1 {
+    background-image: url("IMG1.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative; 
+}
+
+
+
+
+
+
+
+.bulle-gauche {
+    position: absolute;
+    
+    top: 30%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+    background: transparent; 
+    
+
+}
+.bulle-gauche a h1 {
+    font-family: 'Indie Flower', 'Segoe UI', sans-serif;
+    font-size: 28px;        /* ajuste pour rentrer dans la bulle */
+    margin: 0;
+    color: #2b2b2b;         /* couleur "crayon" */
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    transform: rotate(-2deg); /* petite inclinaison naturelle */
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6), 0 2px 0 rgba(0,0,0,0.06);
+}
+
+/* si tu veux centrer parfaitement et adapter la taille selon la bulle */
+.bulle-gauche { display:flex; align-items:center; justify-content:center; }
+.bulle-gauche a h1 { max-width: 90%; text-align:center; word-break:break-word; }
+
+
+.bullegauche2 {
+    position: absolute;
+    
+    top: 65%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+    background: transparent; 
+    
+
+}
+.bullegauche2 a h1 {
+    font-family: 'Indie Flower', 'Segoe UI', sans-serif;
+    font-size: 28px;        /* ajuste pour rentrer dans la bulle */
+    margin: 0;
+    color: #2b2b2b;         /* couleur "crayon" */
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    transform: rotate(-2deg); /* petite inclinaison naturelle */
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6), 0 2px 0 rgba(0,0,0,0.06);
+}
+
+/* si tu veux centrer parfaitement et adapter la taille selon la bulle */
+.bullegauche2 { display:flex; align-items:center; justify-content:center; }
+.bullegauche2 a h1 { max-width: 90%; text-align:center; word-break:break-word; }
+
+.bullegauche3 {
+    position: absolute;
+    
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+    background: transparent; 
+    
+
+}
+.bullegauche3 a h1 {
+    font-family: 'Indie Flower', 'Segoe UI', sans-serif;
+    font-size: 28px;        /* ajuste pour rentrer dans la bulle */
+    margin: 0;
+    color: #2b2b2b;         /* couleur "crayon" */
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    transform: rotate(-2deg); /* petite inclinaison naturelle */
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6), 0 2px 0 rgba(0,0,0,0.06);
+}
+
+/* si tu veux centrer parfaitement et adapter la taille selon la bulle */
+.bullegauche3 { display:flex; align-items:center; justify-content:center; }
+.bullegauche3 a h1 { max-width: 90%; text-align:center; word-break:break-word; }
+
+.bullegauche4 {
+    position: absolute;
+    
+    top: 67%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+    background: transparent; 
+    
+
+}
+.bullegauche4 a h1 {
+    font-family: 'Indie Flower', 'Segoe UI', sans-serif;
+    font-size: 28px;        /* ajuste pour rentrer dans la bulle */
+    margin: 0;
+    color: #2b2b2b;         /* couleur "crayon" */
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    transform: rotate(-2deg); /* petite inclinaison naturelle */
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6), 0 2px 0 rgba(0,0,0,0.06);
+}
+
+/* si tu veux centrer parfaitement et adapter la taille selon la bulle */
+.bullegauche4 { display:flex; align-items:center; justify-content:center; }
+.bullegauche4 a h1 { max-width: 90%; text-align:center; word-break:break-word; }
+
+.bullegauche5 {
+    position: absolute;
+    
+    top: 33%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+    background: transparent; 
+    
+
+}
+.bullegauche5 a h1 {
+    font-family: 'Indie Flower', 'Segoe UI', sans-serif;
+    font-size: 28px;        /* ajuste pour rentrer dans la bulle */
+    margin: 0;
+    color: #2b2b2b;         /* couleur "crayon" */
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    transform: rotate(-2deg); /* petite inclinaison naturelle */
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6), 0 2px 0 rgba(0,0,0,0.06);
+}
+
+/* si tu veux centrer parfaitement et adapter la taille selon la bulle */
+.bullegauche5 { display:flex; align-items:center; justify-content:center; }
+.bullegauche5 a h1 { max-width: 90%; text-align:center; word-break:break-word; }
+
+.bullegauche6 {
+    position: absolute;
+    
+    top: 18%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+    background: transparent; 
+    
+
+}
+.bullegauche6 a h1 {
+    font-family: 'Indie Flower', 'Segoe UI', sans-serif;
+    font-size: 28px;        /* ajuste pour rentrer dans la bulle */
+    margin: 0;
+    color: #2b2b2b;         /* couleur "crayon" */
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    transform: rotate(-2deg); /* petite inclinaison naturelle */
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6), 0 2px 0 rgba(0,0,0,0.06);
+}
+
+/* si tu veux centrer parfaitement et adapter la taille selon la bulle */
+.bullegauche6 { display:flex; align-items:center; justify-content:center; }
+.bullegauche6 a h1 { max-width: 90%; text-align:center; word-break:break-word; }
+
+.photos {
+    position: absolute;
+    
+    top: 49%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+    background: transparent; 
+    
+
+}
+.photos a h1 {
+    font-family: 'Indie Flower', 'Segoe UI', sans-serif;
+    font-size: 60px;        /* ajuste pour rentrer dans la bulle */
+    margin: 0;
+    color: #2b2b2b;         /* couleur "crayon" */
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    transform: rotate(-2deg); /* petite inclinaison naturelle */
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6), 0 2px 0 rgba(0,0,0,0.06);
+}
+
+/* si tu veux centrer parfaitement et adapter la taille selon la bulle */
+.photos { display:flex; align-items:center; justify-content:center; }
+.photos a h1 { max-width: 90%; text-align:center; word-break:break-word; }
+
+
+
+
+a.retour {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    /* Garder le même style que vos autres liens */
+
+    font-family: 'Indie Flower', 'Segoe UI', sans-serif;
+    font-size: 24px;
+     color: #2b2b2b;         /* couleur "crayon" */
+    z-index: 9999;        /* <-- mettre devant tout */
+    pointer-events: auto;
+    }
+/* Arrière-plan jour1 */
+      
+   
+   
+    
+    .jour1.img {
+    background-image: url("ecole.jpeg");
+       background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; /* ou "cover" selon le résultat souhaité */
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items:flex-start;
+    padding-top: 2vh;
+    justify-content: center;
+    text-align:center;
+    z-index: 0; 
+    
+    
+    
+    position: absolute; /* retire du flux pour éviter collision */
+    inset: 0;           /* top:0; right:0; bottom:0; left:0; */
+    display: flex;
+    align-items: center;    /* centrage vertical */
+    justify-content: center;/* centrage horizontal */
+    text-align: center;
+    z-index: 0;             /* derrière les éléments avec z-index > 0 */
+}
+
+/* si vous voulez que le texte soit au-dessus */
+.jour1.img > * {
+    position: relative;
+    z-index: 1;
+    font-size: 20px;
+    color:black;
+}
+
+.jour1.img {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none; /* on utilise <img> centré, pas background-image */
+    padding: 4vh 2vw;
+    box-sizing: border-box;
+}
+
+/* conteneur : gauche / image / droite */
+.layout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1200px;
+    width: 100%;
+}
+
+/* colonnes de texte */
+.col{
+    width: 30%;
+    max-width: 380px;
+    color: black; /* adapter la couleur */
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+/* bloc image centré */
+.center{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.3);
+}
+
+/* responsive : empile les blocs sur petits écrans */
+@media (max-width: 900px){
+    .layout{ flex-direction: column; gap: 1.5rem; }
+    .col, .center{ width: 100%; }
+    .col{ text-align: center; }
+}
+.jour2.img {
+    background-image: url("escalde.jpeg");
+       background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; /* ou "cover" selon le résultat souhaité */
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items:flex-start;
+    padding-top: 2vh;
+    justify-content: center;
+    text-align:center;
+    z-index: 0; 
+    
+    
+    
+    position: absolute; /* retire du flux pour éviter collision */
+    inset: 0;           /* top:0; right:0; bottom:0; left:0; */
+    display: flex;
+    align-items: center;    /* centrage vertical */
+    justify-content: center;/* centrage horizontal */
+    text-align: center;
+    z-index: 0;             /* derrière les éléments avec z-index > 0 */
+}
+
+/* si vous voulez que le texte soit au-dessus */
+.jour2.img > * {
+    position: relative;
+    z-index: 1;
+    font-size: 20px;
+    color:black;
+}
+
+.jour2.img {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none; /* on utilise <img> centré, pas background-image */
+    padding: 4vh 2vw;
+    box-sizing: border-box;
+}
+
+/* conteneur : gauche / image / droite */
+.layout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1200px;
+    width: 100%;
+}
+
+/* colonnes de texte */
+.col{
+    width: 30%;
+    max-width: 380px;
+    color: black; /* adapter la couleur */
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+/* bloc image centré */
+.center{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.3);
+}
+
+/* responsive : empile les blocs sur petits écrans */
+@media (max-width: 900px){
+    .layout{ flex-direction: column; gap: 1.5rem; }
+    .col, .center{ width: 100%; }
+    .col{ text-align: center; }
+}
+
+.jour3.img {
+    background-clip: url("luge.mp4");
+       background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; /* ou "cover" selon le résultat souhaité */
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items:flex-start;
+    padding-top: 2vh;
+    justify-content: center;
+    text-align:center;
+    z-index: 0; 
+    
+    
+    
+    position: absolute; /* retire du flux pour éviter collision */
+    inset: 0;           /* top:0; right:0; bottom:0; left:0; */
+    display: flex;
+    align-items: center;    /* centrage vertical */
+    justify-content: center;/* centrage horizontal */
+    text-align: center;
+    z-index: 0;             /* derrière les éléments avec z-index > 0 */
+}
+
+/* si vous voulez que le texte soit au-dessus */
+.jour3.img > * {
+    position: relative;
+    z-index: 1;
+    font-size: 20px;
+    color:black;
+}
+
+.jour3.img {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none; /* on utilise <img> centré, pas background-image */
+    padding: 4vh 2vw;
+    box-sizing: border-box;
+}
+
+/* conteneur : gauche / image / droite */
+.layout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1200px;
+    width: 100%;
+}
+
+/* colonnes de texte */
+.col{
+    width: 30%;
+    max-width: 380px;
+    color: black; /* adapter la couleur */
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+/* bloc image centré */
+.center{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.3);
+}
+
+/* responsive : empile les blocs sur petits écrans */
+@media (max-width: 900px){
+    .layout{ flex-direction: column; gap: 1.5rem; }
+    .col, .center{ width: 100%; }
+    .col{ text-align: center; }
+}
+.jour4.img {
+    background-clip: url("curling.jpeg");
+       background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; /* ou "cover" selon le résultat souhaité */
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items:flex-start;
+    padding-top: 2vh;
+    justify-content: center;
+    text-align:center;
+    z-index: 0; 
+    
+    
+    
+    position: absolute; /* retire du flux pour éviter collision */
+    inset: 0;           /* top:0; right:0; bottom:0; left:0; */
+    display: flex;
+    align-items: center;    /* centrage vertical */
+    justify-content: center;/* centrage horizontal */
+    text-align: center;
+    z-index: 0;             /* derrière les éléments avec z-index > 0 */
+}
+
+/* si vous voulez que le texte soit au-dessus */
+.jour4.img > * {
+    position: relative;
+    z-index: 1;
+    font-size: 20px;
+    color:black;
+}
+
+.jour4.img {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none; /* on utilise <img> centré, pas background-image */
+    padding: 4vh 2vw;
+    box-sizing: border-box;
+}
+
+/* conteneur : gauche / image / droite */
+.layout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1200px;
+    width: 100%;
+}
+
+/* colonnes de texte */
+.col{
+    width: 30%;
+    max-width: 380px;
+    color: black; /* adapter la couleur */
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+/* bloc image centré */
+.center{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.3);
+}
+
+/* responsive : empile les blocs sur petits écrans */
+@media (max-width: 900px){
+    .layout{ flex-direction: column; gap: 1.5rem; }
+    .col, .center{ width: 100%; }
+    .col{ text-align: center; }
+}
+.jour5.img {
+    background-clip: url("patins.jpeg");
+       background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; /* ou "cover" selon le résultat souhaité */
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items:flex-start;
+    padding-top: 2vh;
+    justify-content: center;
+    text-align:center;
+    z-index: 0; 
+    
+    
+    
+    position: absolute; /* retire du flux pour éviter collision */
+    inset: 0;           /* top:0; right:0; bottom:0; left:0; */
+    display: flex;
+    align-items: center;    /* centrage vertical */
+    justify-content: center;/* centrage horizontal */
+    text-align: center;
+    z-index: 0;             /* derrière les éléments avec z-index > 0 */
+}
+
+/* si vous voulez que le texte soit au-dessus */
+.jour5.img > * {
+    position: relative;
+    z-index: 1;
+    font-size: 20px;
+    color:black;
+}
+
+.jour5.img {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none; /* on utilise <img> centré, pas background-image */
+    padding: 4vh 2vw;
+    box-sizing: border-box;
+}
+
+/* conteneur : gauche / image / droite */
+.layout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1200px;
+    width: 100%;
+}
+
+/* colonnes de texte */
+.col{
+    width: 30%;
+    max-width: 380px;
+    color: black; /* adapter la couleur */
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+/* bloc image centré */
+.center{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.3);
+}
+
+/* responsive : empile les blocs sur petits écrans */
+@media (max-width: 900px){
+    .layout{ flex-direction: column; gap: 1.5rem; }
+    .col, .center{ width: 100%; }
+    .col{ text-align: center; }
+}
+
+.jour6.img {
+    background-clip: url("avion.jpeg");
+       background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; /* ou "cover" selon le résultat souhaité */
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items:flex-start;
+    padding-top: 2vh;
+    justify-content: center;
+    text-align:center;
+    z-index: 0; 
+    
+    
+    
+    position: absolute; /* retire du flux pour éviter collision */
+    inset: 0;           /* top:0; right:0; bottom:0; left:0; */
+    display: flex;
+    align-items: center;    /* centrage vertical */
+    justify-content: center;/* centrage horizontal */
+    text-align: center;
+    z-index: 0;             /* derrière les éléments avec z-index > 0 */
+}
+
+/* si vous voulez que le texte soit au-dessus */
+.jour6.img > * {
+    position: relative;
+    z-index: 1;
+    font-size: 20px;
+    color:black;
+}
+
+.jour6.img {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none; /* on utilise <img> centré, pas background-image */
+    padding: 4vh 2vw;
+    box-sizing: border-box;
+}
+
+/* conteneur : gauche / image / droite */
+.layout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1200px;
+    width: 100%;
+}
+
+/* colonnes de texte */
+.col{
+    width: 30%;
+    max-width: 380px;
+    color: black; /* adapter la couleur */
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+/* bloc image centré */
+.center{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.3);
+}
+
+/* responsive : empile les blocs sur petits écrans */
+@media (max-width: 900px){
+    .layout{ flex-direction: column; gap: 1.5rem; }
+    .col, .center{ width: 100%; }
+    .col{ text-align: center; }
+}
+.galerie {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem;
+  align-items: center;
+  justify-items: center;
+  padding: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.galerie img,
+.galerie video {
+  display: block;
+  width: 100%;
+  height: 120px;           /* taille des vignettes */
+  object-fit: cover;       /* conserve proportion et recadre si besoin */
+  border-radius: 6px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.12);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  cursor: pointer;
+}
+
+/* effet au survol */
+.galerie img:hover,
+.galerie video:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.18);
+}
+
+/* vidéos : fond noir si frame vide */
+.galerie video {
+  background: #000;
+}
+
+/* responsive : vignettes plus petites sur petits écrans */
+@media (max-width: 600px) {
+  .galerie { grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.6rem; }
+  .galerie img, .galerie video { height: 90px; }
+}
+
